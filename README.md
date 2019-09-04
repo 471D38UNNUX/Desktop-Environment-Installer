@@ -16,6 +16,8 @@ cd Xfce
 
 bash Xfce-Installer-For-Termux.sh
 
+Make your password VNC server
+
 Open VNC Viewer and connect this IP address: 127.0.0.1:5901
 
 For linux installation:
