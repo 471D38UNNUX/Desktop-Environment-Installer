@@ -78,4 +78,6 @@ Open your xlaunch again.
 
 Enjoy.
 
-![](1280px-Xfce_logo.svg.png)
+![](Xfce1.png)
+
+![](Xfce2.png)
