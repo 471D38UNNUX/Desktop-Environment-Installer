@@ -32,7 +32,7 @@ For original version:
 
 #cd Linux
 
-#bash Xfce-Installer-For-Linux-Based-On-Debian.sh
+#bash Xfce-Installer-For-Linux-Based-On-(Debian/Red-Hat-Linux).sh
 
 Reboot your system.
 
