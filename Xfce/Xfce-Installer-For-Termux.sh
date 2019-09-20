@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-apt update && apt upgrade -y
+apt update && apt full-upgrade -y
 apt install x11-repo
 apt install tigervnc '*xfce*' xterm -y
 
