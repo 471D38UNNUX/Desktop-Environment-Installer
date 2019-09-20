@@ -32,7 +32,7 @@ For original version:
 
 #cd Linux
 
-#bash Xfce-Installer-For-Linux-Based-On-(Debian/Red-Hat-Linux).sh
+#bash Xfce-Installer-For-(your linux based).sh
 
 Reboot your system.
 
@@ -70,7 +70,7 @@ Run this script:
 
 #cd Linux
 
-#bash Xfce-Installer-For-Linux-Based-On-Debian.sh
+#bash Xfce-Installer-For-(your linux based).sh
 
 #xfce4-session
 
