@@ -24,7 +24,7 @@ For linux installation:
 
 For original version:
 
-#sudo apt install git
+#sudo (apt/yum/zypper/pacman -S) install git
 
 #git clone https://github.com/471D38UNNUX/Desktop-Environment-Installer
 
@@ -42,7 +42,7 @@ For WSL version:
 
 Download and install Vcxsrv first in this link: https://sourceforge.net/projects/vcxsrv/files/vcxsrv/
 
-#sudo apt install git
+#sudo (apt/zypper) install git
 
 #git clone https://github.com/471D38UNNUX/Desktop-Environment-Installer
 
