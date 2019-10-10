@@ -1,4 +1,4 @@
-For linux installation:
+# Xfce Installer for Linux
 
 For original version:
 
@@ -22,6 +22,6 @@ Open your xlaunch again.
 
 Enjoy.
 
-![](Xfce/Xfce1.png)
+![](Xfce1.png)
 
-![](Xfce/Xfce2.png)
+![](Xfce2.png)
