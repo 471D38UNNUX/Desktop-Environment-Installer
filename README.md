@@ -65,3 +65,5 @@ Run this script:
 #cd (choose your desktop environment & follow the readme instruction inside that folder)
 
 Enjoy.
+
+Nb: Xfce is recommended for desktop environment and termux only support xfce
