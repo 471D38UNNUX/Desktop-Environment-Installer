@@ -10,11 +10,11 @@ $apt install git
 
 $git clone https://github.com/471D38UNNUX/Desktop-Environment-Installer
 
-cd Desktop-Environment-Installer
+$cd Desktop-Environment-Installer
 
-cd Xfce
+$cd Xfce
 
-bash Xfce-Installer-For-Termux.sh
+$bash Xfce-Installer-For-Termux.sh
 
 Make your password VNC server
 
