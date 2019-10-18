@@ -1,6 +1,6 @@
 #!/bin/sh
 
-sudo pacman -Syy
+sudo pacman -Syu
 sudo pacman -S xorg gnome dbus
 echo gnome-session > ~/.xinitrc
 
