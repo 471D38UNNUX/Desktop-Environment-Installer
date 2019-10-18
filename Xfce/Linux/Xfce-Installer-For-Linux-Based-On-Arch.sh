@@ -1,6 +1,6 @@
 #!/bin/sh
 
-sudo pacman -Syy
+sudo pacman -Syu
 sudo pacman -S xorg xfce4 xfce4-goodies
 echo xfce4-session > ~/.xinitrc
 
