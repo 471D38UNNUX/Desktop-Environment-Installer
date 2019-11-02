@@ -44,8 +44,6 @@ Download and install Vcxsrv first in this link: https://sourceforge.net/projects
 
 #bash WSL-Config.sh
 
-Restart your terminal.
-
 Open Xlaunch on desktop.
 
 Select one large window/fullscreen and click next to continue.
