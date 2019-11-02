@@ -24,6 +24,6 @@ Open your xlaunch again.
 
 Enjoy.
 
-![](Xfce1.png)
+![](Gnome1.png)
 
-![](Xfce2.png)
+![](Gnome2.png)
