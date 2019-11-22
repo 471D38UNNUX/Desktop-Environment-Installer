@@ -2,7 +2,7 @@
 
 apt update && apt full-upgrade -y
 apt install x11-repo
-apt install tigervnc '*xfce*' xterm -y
+apt install '*tigervnc*' '*xfce*' '*xterm*' '*feh*' -y
 
 vncserver
 export DISPLAY=":1"
