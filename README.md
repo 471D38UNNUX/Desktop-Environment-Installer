@@ -24,7 +24,7 @@ For linux installation:
 
 For original version:
 
-#sudo (apt/yum/zypper/pacman -S) install git
+#sudo (apt/yum/zypper install/pacman -S) git
 
 #git clone https://github.com/471D38UNNUX/Desktop-Environment-Installer
 
