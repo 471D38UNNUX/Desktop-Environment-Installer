@@ -3,8 +3,8 @@
 sudo pacman -Syu
 sudo pacman -S xorg gnome dbus
 echo export XDG_SESSION_TYPE=x11 > ~/.xinitrc
-echo export GDK_BACKEND=x11 > ~/.xinitrc
-echo gnome-session > ~/.xinitrc
+echo export GDK_BACKEND=x11 >> ~/.xinitrc
+echo gnome-session >> ~/.xinitrc
 
 echo "You can now launch Xfce."
 echo "Run startx for start Xfce."
