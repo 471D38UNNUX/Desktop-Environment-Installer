@@ -42,7 +42,7 @@ Download and install Vcxsrv first in this link: https://sourceforge.net/projects
 
 #cd Desktop-Environment-Installer
 
-#bash WSL-Config.sh
+#bash WSL(1/2)-Config.sh
 
 Open Xlaunch on desktop.
 
