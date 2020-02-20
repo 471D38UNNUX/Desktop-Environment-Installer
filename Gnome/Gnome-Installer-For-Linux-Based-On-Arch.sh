@@ -1,7 +1,7 @@
 #!/bin/sh
 
 sudo pacman -Syu
-sudo pacman -S xorg gnome dbus
+sudo pacman -S xorg gnome dbus firefox
 echo export XDG_SESSION_TYPE=x11 > ~/.xinitrc
 echo export GDK_BACKEND=x11 >> ~/.xinitrc
 echo gnome-session >> ~/.xinitrc
