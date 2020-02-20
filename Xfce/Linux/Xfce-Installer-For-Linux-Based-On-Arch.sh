@@ -1,7 +1,7 @@
 #!/bin/sh
 
 sudo pacman -Syu
-sudo pacman -S xorg xfce4 xfce4-goodies
+sudo pacman -S xorg xfce4 xfce4-goodies firefox
 echo xfce4-session > ~/.xinitrc
 
 echo "You can now launch Xfce."
