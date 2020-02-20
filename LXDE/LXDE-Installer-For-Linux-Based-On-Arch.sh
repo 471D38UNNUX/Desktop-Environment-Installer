@@ -1,7 +1,7 @@
 #!/bin/sh
 
 sudo pacman -Syu
-sudo pacman -S xorg lxde
+sudo pacman -S xorg lxde firefox
 echo startlxde > ~/.xinitrc
 
 echo "You can now launch LXDE."
